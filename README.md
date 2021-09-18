@@ -1,2 +1,8 @@
-# Emery-Idle-V.08-Alpha
-Completely redid the whole game in Bootstrap 4! Added A lot of new tabs to be explored and some functionality. More to come for sure! This game is a way for me to learn the languages and share my creativity with others. Let me know what ya think!
+# EMERY-IDLE-APLHA-V.05
+My personal project that has taught me alot about Javascript and CSS and sparked my interest in programming again. 
+I uploaded this simple "game" so that some of you people who are dope at
+programming can finish some of the code I started and make things actually playable and fun. 
+
+Cheers,
+
+Zach aka Jaxariah
